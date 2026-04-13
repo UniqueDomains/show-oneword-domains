@@ -1,20 +1,20 @@
-# Available .SHOW One-Word Domains (8,731)
+# Available .SHOW One-Word Domains (8,729)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C729%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C731%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C728%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C729%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .show one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,729-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,731 domains** on the canonical page below.
+> **Important:** this repository is a **public 8,728-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **8,729 domains** on the canonical page below.
 
-**Public extract:** 8,729 rows · **Live catalog:** 8,731 domains
+**Public extract:** 8,728 rows · **Live catalog:** 8,729 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/show`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SHOW one-word domain 
 
 ### Files
 
-- `show.csv` — public CSV extract (8,729 rows)
-- `show.json` — public JSON extract (8,729 rows)
+- `show.csv` — public CSV extract (8,728 rows)
+- `show.json` — public JSON extract (8,728 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -69,20 +69,20 @@ print(df.head())
 | auto.show       | premium   | $1,040    | $1,040        | 68             | 42     | 4      | namecheap                                               |
 | pocket.show     | available | $17.99    | —             | 72             | 42     | 6      | name.com                                                |
 | cat.show        | resell    | —         | —             | 92             | 80     | 3      | Porkbun LLC                                             |
-| electronic.show | premium   | $82.50    | $82.50        | 68             | 21     | 10     | name.com                                                |
-| shared.show     | available | $17.99    | $56.99        | 70             | 39     | 6      | name.com                                                |
+| electronic.show | premium   | $82.50    | $82.50        | 68             | 20     | 10     | name.com                                                |
+| forward.show    | available | $17.99    | $56.99        | 68             | 39     | 7      | name.com                                                |
 | box.show        | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                            |
 | outdoors.show   | premium   | $250      | $250          | 88             | 17     | 8      | name.com                                                |
-| forward.show    | available | $17.99    | $56.99        | 68             | 39     | 7      | name.com                                                |
+| conscious.show  | available | $17.99    | $56.99        | 89             | 38     | 9      | name.com                                                |
 | wise.show       | resell    | —         | —             | 98             | 72     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | calm.show       | premium   | —         | —             | 118            | 99     | 4      | —                                                       |
-| conscious.show  | available | $17.99    | $56.99        | 89             | 38     | 9      | name.com                                                |
+| order.show      | available | $17.99    | $56.99        | 78             | 38     | 5      | name.com                                                |
 | get.show        | resell    | —         | —             | 88             | 69     | 3      | GoDaddy.com, LLC                                        |
 | blue.show       | premium   | —         | —             | 92             | 99     | 4      | —                                                       |
-| order.show      | available | $17.99    | $56.99        | 78             | 38     | 5      | name.com                                                |
+| unify.show      | available | $17.99    | $56.99        | 72             | 38     | 5      | name.com                                                |
 | easy.show       | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC                                        |
 | bob.show        | premium   | —         | —             | 88             | 99     | 3      | —                                                       |
-| unify.show      | available | $17.99    | $56.99        | 72             | 38     | 5      | name.com                                                |
+| field.show      | available | $17.99    | —             | 68             | 38     | 5      | name.com                                                |
 | flow.show       | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,729-row public sample | 8,731 live domains                               |
+| 8,728-row public sample | 8,729 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
