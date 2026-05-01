@@ -1,10 +1,10 @@
-# Available .SHOW One-Word Domains (11,135)
+# Available .SHOW One-Word Domains (11,569)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C135%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C569%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .show one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,135 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,569 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,135 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,569 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/show`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| shortcuts.show   | available | $17.99    | —             | 48             | 41     | 10     | name.com                                            |
+| inspiration.show | available | $17.99    | —             | 88             | 30     | 11     | name.com                                            |
 | online.show      | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc                                         |
 | jobs.show        | premium   | $1,000    | —             | 79             | 42     | 4      | name.com                                            |
-| inspiration.show | available | $17.99    | —             | 88             | 30     | 11     | name.com                                            |
+| quotes.show      | available | $17.99    | —             | 58             | 29     | 6      | name.com                                            |
 | events.show      | resell    | —         | —             | 68             | 37     | 6      | Sav.com, LLC - 23                                   |
 | SanDiego.show    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo                                            |
-| quotes.show      | available | $17.99    | —             | 58             | 29     | 6      | name.com                                            |
-| Cats.show        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.                                        |
-| weddings.show    | premium   | $118.80   | $118.80       | 64             | 18     | 8      | namesilo                                            |
 | IDK.show         | available | $47.98    | —             | 56             | 27     | 3      | namecheap                                           |
-| stone.show       | resell    | —         | —             | 62             | 32     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| LongBeach.show   | premium   | $92.40    | $92.40        | 62             | 11     | 10     | namecheap                                           |
+| Cats.show        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.                                        |
 | Trex.show        | available | $47.98    | —             | 80             | 24     | 5      | namecheap                                           |
+| stone.show       | resell    | —         | —             | 62             | 32     | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| gamers.show      | available | $17.99    | —             | 62             | 24     | 6      | name.com                                            |
 | say.show         | resell    | —         | —             | 68             | 29     | 3      | Sav.com, LLC - 20                                   |
 | whats.show       | available | $17.99    | —             | 58             | 24     | 5      | name.com                                            |
-| road.show        | resell    | —         | —             | 80             | 28     | 4      | Porkbun LLC                                         |
+| jewels.show      | resell    | —         | —             | 80             | 15     | 6      | Dynadot Inc                                         |
 | echoes.show      | available | $17.99    | —             | 56             | 24     | 6      | name.com                                            |
-| brands.show      | resell    | —         | —             | 62             | 28     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | superhero.show   | available | $17.99    | —             | 84             | 23     | 9      | name.com                                            |
-| toys.show        | resell    | —         | —             | 60             | 24     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| CapeCod.show     | available | $47.98    | —             | 78             | 22     | 8      | namecheap                                           |
+| oceans.show      | available | $17.99    | —             | 64             | 22     | 6      | name.com                                            |
+| results.show     | available | $17.99    | —             | 59             | 22     | 7      | name.com                                            |
+| machines.show    | available | $17.99    | —             | 56             | 22     | 8      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,135 live domains                              |
+| 1,000-row public sample | 11,569 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
