@@ -752,7 +752,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 431eac6a-b4ac-465f-a547-2012747f1278,arguments.show,available,17.99,,54,7,9,name.com,,
 43283d00-ccb8-4917-9e4f-135c290fccd7,manybodyproblem.show,available,17.99,,64,1,17,name.com,,
 43595de6-c7ee-4ece-8894-d88be8adde07,commonstock.show,available,17.99,,68,3,12,name.com,,
-437da8a3-ba51-4f14-99ee-a687a4d79d22,say.show,resell,,,68,29,3,"Sav.com, LLC - 20",12/02/2026 15:15,12/02/2027 15:15
+437da8a3-ba51-4f14-99ee-a687a4d79d22,say.show,resell,,,68,31,3,"Sav.com, LLC - 20",12/02/2026 15:15,12/02/2027 15:15
 43819568-3fec-4c32-8155-1d6dcbdbfa5f,cometotermswith.show,available,17.99,,66,1,18,name.com,,
 4382cda4-fbb9-4c05-98a1-6cce70698760,getonto.show,available,17.99,,74,3,9,name.com,,
 438c151d-b107-4673-86b8-e9b5ab1dbae0,upperlip.show,available,17.99,,52,1,9,name.com,,
