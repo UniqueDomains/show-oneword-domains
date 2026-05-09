@@ -1,10 +1,10 @@
-# Available .SHOW One-Word Domains (11,577)
+# Available .SHOW One-Word Domains (11,582)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C577%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C582%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .show one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,577 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,577 domains · **Median ask:** $21.01 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,582 domains · **Median ask:** $21.01 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/show`  
 **Best for:** founders, investors, studios
 
@@ -68,6 +68,7 @@ print(df.head())
 | barup.show       | available | $17.99    | —             | 82             | 2      | 6      | name.com          |
 | forces.show      | available | $17.99    | —             | 82             | 12     | 6      | name.com          |
 | geton.show       | available | $17.99    | —             | 82             | 10     | 6      | name.com          |
+| follow.show      | available | $17.99    | —             | 84             | 28     | 6      | name.com          |
 | Apples.show      | available | $47.98    | —             | 90             | 16     | 6      | namecheap         |
 | useit.show       | available | $17.99    | —             | 94             | 7      | 6      | name.com          |
 | gearup.show      | available | $17.99    | —             | 80             | 16     | 7      | name.com          |
@@ -82,7 +83,6 @@ print(df.head())
 | quotes.show      | available | $17.99    | —             | 58             | 29     | 6      | name.com          |
 | events.show      | resell    | —         | —             | 68             | 37     | 6      | Sav.com, LLC - 23 |
 | SanDiego.show    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo          |
-| IDK.show         | available | $47.98    | —             | 56             | 27     | 3      | namecheap         |
 | Cats.show        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,577 live domains                        |
+| 1,000-row public sample | 11,582 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

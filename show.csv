@@ -403,6 +403,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2487254e-457f-4b8a-934f-189eab23520e,getrid.show,available,17.99,,56,3,7,name.com,,
 248840f1-cb5c-44d1-885f-8f69de12505c,types.show,available,17.99,,54,14,5,name.com,,
 24b3c576-ddbe-4f27-b122-d7a74a8c019e,salts.show,available,17.99,,56,7,5,name.com,,
+24bb2ff1-d82e-4530-a9ad-033a0c0be0f6,follow.show,available,17.99,,84,28,6,name.com,,
 24ddeda5-499e-4819-8400-f1929455977f,pantihose.show,available,17.99,,70,2,9,name.com,,
 24ea13fb-b38c-4f2a-babb-89db1ae19901,makeinteresting.show,available,17.99,,72,1,16,name.com,,
 24f57da7-220d-4a9d-a012-eaee20f40d59,highsugar.show,available,17.99,,52,1,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59721ae7-de7d-466c-8590-20f92586cbd8,ushered.show,available,17.99,,54,1,7,name.com,,
 597e6839-826e-431e-bd90-573bbbac8fff,seas.show,available,17.99,,58,13,4,name.com,,
 5981c6e7-4c63-454c-b162-07422972b84d,plateup.show,available,17.99,,74,2,8,name.com,,
-59a23970-2630-4e20-8353-0e4d1531682a,cometoanend.show,available,17.99,,62,1,14,name.com,,
