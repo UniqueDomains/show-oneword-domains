@@ -969,6 +969,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55dbce80-fc0a-42dc-9420-d690e36081d1,chairmen.show,available,17.99,,58,3,8,name.com,,
 55fdc283-1a5e-4fdd-9bc0-a7e082f2e761,CatholicChurch.show,available,47.98,,70,5,15,namecheap,,
 56089a1e-e413-4863-a11d-6c8a32f68d6b,turningback.show,available,17.99,,53,2,12,name.com,,
+56198760-d134-4d9b-817a-80ce945bf558,stateoftheart.show,premium,,,78,7,16,,,
 5631aa6a-0894-40cf-90e8-62f0f72be57b,possesses.show,available,17.99,,48,1,9,name.com,,
 569431e2-8684-4f41-90d5-626f003f697a,presents.show,available,17.99,,80,9,8,name.com,,
 56ba3543-3bf7-40b8-9665-9ed656bf48d7,pizzaslice.show,available,17.99,,56,4,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 596d8893-2c94-4ed7-aee4-a41262265ce4,comedians.show,available,17.99,,56,4,9,name.com,,
 59721ae7-de7d-466c-8590-20f92586cbd8,ushered.show,available,17.99,,54,1,7,name.com,,
 597e6839-826e-431e-bd90-573bbbac8fff,seas.show,available,17.99,,58,13,4,name.com,,
-5981c6e7-4c63-454c-b162-07422972b84d,plateup.show,available,17.99,,74,2,8,name.com,,
