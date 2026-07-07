@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .show one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,587 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,587 domains · **Median ask:** $21.01 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,587 domains · **Median ask:** $20.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/show`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/show`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SHOW one-word domain 
 
 ### Files
 
-- `show.csv` — public CSV extract (1,000 rows)
-- `show.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `show.csv`, public CSV extract (1,000 rows)
+- `show.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Trex.show        | available | $47.98    | —             | 80             | 24     | 5      | namecheap         |
-| barup.show       | available | $17.99    | —             | 82             | 2      | 6      | name.com          |
-| forces.show      | available | $17.99    | —             | 82             | 12     | 6      | name.com          |
-| geton.show       | available | $17.99    | —             | 82             | 10     | 6      | name.com          |
-| follow.show      | available | $17.99    | —             | 84             | 28     | 6      | name.com          |
-| Apples.show      | available | $47.98    | —             | 90             | 16     | 6      | namecheap         |
-| useit.show       | available | $17.99    | —             | 94             | 7      | 6      | name.com          |
-| gearup.show      | available | $17.99    | —             | 80             | 16     | 7      | name.com          |
-| stirup.show      | available | $17.99    | —             | 82             | 3      | 7      | name.com          |
-| leaveon.show     | available | $17.99    | —             | 80             | 1      | 8      | name.com          |
-| presents.show    | available | $17.99    | —             | 80             | 9      | 8      | name.com          |
-| Snickers.show    | available | $47.98    | —             | 80             | 10     | 8      | namecheap         |
-| invoice.show     | available | $17.99    | —             | 72             | 34     | 8      | name.com          |
-| online.show      | resell    | —         | —             | 70             | 62     | 7      | Dynadot Inc       |
-| jobs.show        | premium   | $1,000    | —             | 79             | 42     | 4      | name.com          |
-| inspiration.show | available | $17.99    | —             | 88             | 30     | 11     | name.com          |
-| events.show      | resell    | —         | —             | 68             | 37     | 6      | Sav.com, LLC - 23 |
-| SanDiego.show    | premium   | $118.80   | $118.80       | 74             | 29     | 9      | namesilo          |
-| quotes.show      | available | $17.99    | —             | 58             | 29     | 6      | name.com          |
-| Cats.show        | resell    | —         | —             | 59             | 33     | 4      | DNSPod, Inc.      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ale.show        | available | $17.99    | —             | medium         | low    | 3      | name.com                                            |
+| age.show        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 34                                   |
+| image.show      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo                                            |
+| ana.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bid.show        | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| active.show     | premium   | $17.99    | —             | high           | low    | 6      | name.com                                            |
+| Ann.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bit.show        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
+| outdoors.show   | premium   | $250      | $250          | high           | low    | 8      | name.com                                            |
+| boo.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| box.show        | resell    | —         | —             | medium         | high   | 3      | DNSPod, Inc.                                        |
+| automobile.show | premium   | $242      | $242          | high           | low    | 10     | namesilo                                            |
+| con.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bro.show        | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 15                                   |
+| automotive.show | premium   | $500      | —             | high           | low    | 10     | name.com                                            |
+| coy.show        | available | $17.99    | $56.99        | medium         | low    | 3      | name.com                                            |
+| buy.show        | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
+| conclusive.show | premium   | $17.99    | —             | medium         | low    | 10     | name.com                                            |
+| don.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| die.show        | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all built on the .show extension, so the best candidates are words that naturally pair with presentation, entertainment, events, demos, or visible outcomes. In this set, the strongest picks tend to read cleanly as a phrase, such as useit.show or finals.show, rather than forcing an awkward construction. Founders should favor words that stay memorable when spoken aloud and still look credible with this niche ending. Investors should focus on words with obvious end-user fit, broad commercial use, and realistic resale appeal within a specialized TLD. Plural forms, command words, and generic nouns can work, but only when the full domain feels intentional.
+This list groups one-word domain names registered under the .show extension, an entertainment- and media-flavored TLD often used for shows, creators, and launch projects. Names like playin.show, getup.show, and cometrue.show illustrate the short, punchy style common across this set. With a median asking price near $20, this selection spans thousands of single-word options, giving founders a fast shortlist and investors a broad view of pricing and coverage before comparing individual listings.
 
-- Best fits are words that pair naturally with .show
-- Median ask is 21.01 across 11,578 domains
-- Check if the full phrase sounds clear when spoken
-- Favor obvious commercial words over forced pairings
+- 11,587 one-word .show domains in this selection
+- Median asking price near $20 across the full set
+- Short, brandable names suited to shows and media brands
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
