@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .show one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,984 domains · **Median ask:** $17.87 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/show`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| correct.show    | available | $17.99    | $56.99        | high           | low    | 7      | name.com          |
-| ale.show        | available | $17.99    | —             | medium         | low    | 3      | name.com          |
-| age.show        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 34 |
-| image.show      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo          |
-| ana.show        | available | $17.99    | —             | high           | low    | 3      | name.com          |
-| bid.show        | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.      |
-| active.show     | premium   | $17.99    | —             | high           | low    | 6      | name.com          |
-| Ann.show        | available | $17.99    | —             | high           | low    | 3      | name.com          |
-| bit.show        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
-| outdoors.show   | premium   | $250      | $250          | high           | low    | 8      | name.com          |
-| boo.show        | available | $17.99    | —             | high           | low    | 3      | name.com          |
-| box.show        | resell    | —         | —             | medium         | high   | 3      | DNSPod, Inc.      |
-| automobile.show | premium   | $242      | $242          | high           | low    | 10     | namesilo          |
-| con.show        | available | $17.99    | —             | high           | low    | 3      | name.com          |
-| bro.show        | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 15 |
-| automotive.show | premium   | $500      | —             | high           | low    | 10     | name.com          |
-| coy.show        | available | $17.99    | $56.99        | medium         | low    | 3      | name.com          |
-| buy.show        | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.      |
-| conclusive.show | premium   | $17.99    | —             | medium         | low    | 10     | name.com          |
-| don.show        | available | $17.99    | —             | high           | low    | 3      | name.com          |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| ale.show        | available | $17.99    | —             | medium         | low    | 3      | name.com                                            |
+| age.show        | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 34                                   |
+| image.show      | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo                                            |
+| ana.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bid.show        | resell    | —         | —             | high           | low    | 3      | DNSPod, Inc.                                        |
+| active.show     | premium   | $17.99    | —             | high           | low    | 6      | name.com                                            |
+| Ann.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bit.show        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
+| outdoors.show   | premium   | $250      | $250          | high           | low    | 8      | name.com                                            |
+| boo.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| box.show        | resell    | —         | —             | medium         | high   | 3      | DNSPod, Inc.                                        |
+| automobile.show | premium   | $242      | $242          | high           | low    | 10     | namesilo                                            |
+| con.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| bro.show        | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 15                                   |
+| automotive.show | premium   | $500      | —             | high           | low    | 10     | name.com                                            |
+| coy.show        | available | $17.99    | $56.99        | medium         | low    | 3      | name.com                                            |
+| buy.show        | resell    | —         | —             | medium         | medium | 3      | DNSPod, Inc.                                        |
+| conclusive.show | premium   | $17.99    | —             | medium         | low    | 10     | name.com                                            |
+| don.show        | available | $17.99    | —             | high           | low    | 3      | name.com                                            |
+| die.show        | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOW One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
