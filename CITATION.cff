@@ -4,8 +4,8 @@ title: "Available .SHOW One-Word Domains"
 type: dataset
 authors:
   - name: "Unique Domains"
-version: "2026-09-25"
-date-released: "2026-09-25"
+version: "2026-09-27"
+date-released: "2026-09-27"
 url: "https://unique.domains/domains/tld/show"
 repository-code: "https://github.com/UniqueDomains/show-oneword-domains"
 license: "See LICENSE"
